@@ -1,4 +1,4 @@
-package racingcar;
+package racingcar.util;
 
 public class RandomUtil {
 	public static int getRandomInt(){

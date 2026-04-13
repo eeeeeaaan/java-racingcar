@@ -1,6 +1,8 @@
-package racingcar;
+package racingcar.flow;
 
 import java.util.List;
+
+import racingcar.Car;
 
 public class OutputView {
 	public static void printResult(List<Car> winners){

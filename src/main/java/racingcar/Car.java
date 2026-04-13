@@ -1,5 +1,8 @@
 package racingcar;
 
+import racingcar.strategy.distance.DistanceStrategy;
+import racingcar.strategy.moving.MovingStrategy;
+
 public class Car {
 	private String name;
 	private int distance=0;

@@ -1,9 +1,11 @@
-package racingcar;
+package racingcar.flow;
 
-import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 
+import racingcar.Car;
+import racingcar.Cars;
+import racingcar.strategy.distance.DistanceStrategy;
+import racingcar.strategy.moving.MovingStrategy;
 
 public class Game {
 	private final DistanceStrategy distanceStrategy;

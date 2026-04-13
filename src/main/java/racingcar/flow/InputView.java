@@ -1,4 +1,4 @@
-package racingcar;
+package racingcar.flow;
 
 import java.util.Arrays;
 import java.util.List;

@@ -3,6 +3,9 @@ package racingcar;
 import java.util.Collections;
 import java.util.List;
 
+import racingcar.strategy.distance.DistanceStrategy;
+import racingcar.strategy.moving.MovingStrategy;
+
 public class Cars {
 	private final List<Car> cars;
 
